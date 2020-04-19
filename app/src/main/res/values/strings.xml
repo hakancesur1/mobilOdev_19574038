@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HelloAndroidWithLogin</string>
+    <string name="username_string">UserName</string>
+    <string name="password_string">Password</string>
+    <string name="enter_username_hint">Enter UserName</string>
+    <string name="enter_password_hint">Enter UserName</string>
+    <string name="login_string">Login</string>
+    <string name="hello">Hello</string>
+    <string name="send_to">Send to</string>
+    <string name="subject">Subject</string>
+    <string name="send">Send</string>
+    <string name="attachment">attachment</string>
+
+    <string name="email_send">Send E-Mail</string>
+    <string name="Settings">Settings</string>
+    <string name="user_list">User List</string>
+    <string name="sensors">Sensors</string>
+
+    <string name="personelInfo">Personel Info</string>
+    <string name="appMode">Application Mode</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="gender1">Male</string>
+    <string name="gender2">Female</string>
+    <string name="age">Age</string>
+    <string name="height">Height (cm)</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="screenMode">ScreenMode</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="users">users</string>
+</resources>
