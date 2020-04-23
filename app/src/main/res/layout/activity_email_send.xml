@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#B0A4BE"
     tools:context=".EmailSend">
 
     <LinearLayout
@@ -41,12 +42,17 @@
             android:id="@+id/attachmentButton"
             android:layout_width="wrap_content"
             android:layout_height="38dp"
+            android:background="#E76B6B"
             android:text="@string/attachment" />
 
         <Button
             android:id="@+id/sendButton"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="300dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginTop="50dp"
+            android:background="#FF9F55"
+            android:layout_height="100dp"
             android:text="@string/send" />
 
     </LinearLayout>
