@@ -57,7 +57,7 @@ public class Settings extends AppCompatActivity {
                 if(b)
                     constraintLayout.setBackgroundColor(Color.WHITE);
                 else
-                    constraintLayout.setBackgroundColor(Color.parseColor("#E8F4FA"));
+                    constraintLayout.setBackgroundColor(Color.parseColor("#8BC34A"));
             }
         });
 
@@ -84,7 +84,7 @@ public class Settings extends AppCompatActivity {
         }
         else {
             ConstraintLayout constraintLayout=(ConstraintLayout)findViewById(R.id.constraitLayoutOne);
-            constraintLayout.setBackgroundColor(Color.parseColor("#E8F4FA"));
+            constraintLayout.setBackgroundColor(Color.parseColor("#8BC34A"));
         }
 
         back.setOnClickListener(new View.OnClickListener() {
