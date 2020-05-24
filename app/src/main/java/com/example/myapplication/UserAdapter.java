@@ -42,7 +42,7 @@ public class UserAdapter extends RecyclerView.Adapter<UserAdapter.MyViewHolder> 
     class MyViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 
         TextView userName, password;
-        ImageView userImage, deleteproduct;
+        ImageView userImage;
 
         public MyViewHolder(View itemView) {
             super(itemView);
