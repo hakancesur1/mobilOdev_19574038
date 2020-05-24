@@ -1,20 +1,20 @@
 <resources>
     <string name="app_name">HelloAndroidWithLogin</string>
-    <string name="username_string">UserName</string>
-    <string name="password_string">Password</string>
-    <string name="enter_username_hint">Enter UserName</string>
-    <string name="enter_password_hint">Enter UserName</string>
-    <string name="login_string">Login</string>
+    <string name="username_string">Kullanıcı Adı</string>
+    <string name="password_string">Şifre</string>
+    <string name="enter_username_hint">Kullanıcı adını giriniz</string>
+    <string name="enter_password_hint">Şifrenizi giriniz</string>
+    <string name="login_string">Giriş</string>
     <string name="hello">Hello</string>
-    <string name="send_to">Send to</string>
-    <string name="subject">Subject</string>
-    <string name="send">Send</string>
-    <string name="attachment">attachment</string>
+    <string name="send_to">To: </string>
+    <string name="subject">Konu: </string>
+    <string name="send">Gönder</string>
+    <string name="attachment">Ekle</string>
 
-    <string name="email_send">Send E-Mail</string>
-    <string name="Settings">Settings</string>
-    <string name="user_list">User List</string>
-    <string name="sensors">Sensors</string>
+    <string name="email_send">Mail</string>
+    <string name="Settings">Personel Bilgisi</string>
+    <string name="user_list">KUllanıcılar</string>
+    <string name="sensors">Sensorler</string>
 
     <string name="personelInfo">Personel Info</string>
     <string name="appMode">Application Mode</string>

@@ -38,7 +38,7 @@ public class Menu extends AppCompatActivity {
         }
         else {
             ConstraintLayout constraintLayout=(ConstraintLayout)findViewById(R.id.constraitLayoutTwo);
-            constraintLayout.setBackgroundColor(Color.parseColor("#8BC34A"));
+            constraintLayout.setBackgroundColor(Color.parseColor("#123456"));
         }
 
         Button emailButton = (Button)findViewById(R.id.sendEmailButton);
